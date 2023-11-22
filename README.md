@@ -8,4 +8,3 @@ aiken doc :
     install aiken:
     
         `cargo install aiken --version 1.0.20-alpha`
-    a
