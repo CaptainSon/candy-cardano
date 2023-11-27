@@ -7,13 +7,9 @@ use aiken/transaction.{Transaction, ScriptContext, Spend, ValidityRange}
 type VerificationKeyHash =
   Hash<Blake2b_224, VerificationKey>
 
-// type CandyTotal =
-//   Int
-
 type Datum {
   candy_total: Int,
   owner: VerificationKeyHash,
-  //beneficiary: VerificationKeyHash,
 }
 
 
