@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lucid-cardano": "^0.10.7"
+    "lucid-cardano": "^0.10.7",
+    "window": "^4.2.7"
   }
 }

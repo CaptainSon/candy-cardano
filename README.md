@@ -40,3 +40,6 @@ wallet cardano:
 
     Lace extension
     link: extension://efeiemlfnahiidnjglmehaihacglceia/app.html#/setup
+
+lucid brower provider 
+    https://lucid.spacebudz.io/docs/getting-started/choose-wallet/#select-wallet-from-browser
