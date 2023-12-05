@@ -25,9 +25,9 @@ const publicRoutes = [
 
 
 const privateRoutes = [
-    { path: '/', component: Start},
-    { path: '/admin/session', component: AdminSessionPage},
-    { path: '/admin/participants', component:AdminParticipants },
+    // { path: '/', component: Start},
+    // { path: '/admin/session', component: AdminSessionPage},
+    // { path: '/admin/participants', component:AdminParticipants },
 
 ];
 
